@@ -46,8 +46,8 @@ I'm a passionate developer who loves turning ideas into fast, accessible, and de
 
 ## Projects & Highlights
 
-- 🔧 Project A — small description of a project you want to showcase.
-- 🚀 Project B — another short highlight (link to repos if you want).
+- 🔧 
+- 🚀   
 
 ---
 
