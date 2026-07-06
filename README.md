@@ -34,13 +34,7 @@ I'm a passionate developer who loves turning ideas into fast, accessible, and de
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanura04&show_icons=true&count_private=true&theme=radical" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanura04&layout=compact&theme=radical" alt="top-langs" />
-</p>
-
+ 
 
 ## Activity streak
 
@@ -57,4 +51,4 @@ I'm a passionate developer who loves turning ideas into fast, accessible, and de
 
 ---
 
-If you'd like this to be customized (different colors, different badges, or specific projects highlighted), tell me what to emphasize and I’ll tailor it for you.
+ 
